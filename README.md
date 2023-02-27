@@ -11,7 +11,7 @@ cd YT_FREE
 
 ls
 
-python ASIF.py
+python Free.py
 
 
 ENJOY FREE CLONIG COMMAND
