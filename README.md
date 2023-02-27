@@ -2,10 +2,16 @@
 
 
 rm -rf YT_ASiF
-git clonehttps://github.com/Asif950/YT_FREE.git
+
+git clone https://github.com/Asif950/YT_FREE.git
+
+
 ls
+
 cd YT_ASIF
+
 ls
+
 python YT_FREE.py
 
 
