@@ -8,7 +8,7 @@ git clone https://github.com/Asif950/YT_FREE.git
 
 ls
 
-cd YT_ASIF
+cd YT_FREE
 
 ls
 
